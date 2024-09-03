@@ -1,0 +1,6 @@
+runs
+wandb
+*.ipynb_checkpoints
+*.ipynb
+*.pyc
+__pycache__
